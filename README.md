@@ -1,3 +1,4 @@
+Thank you very, very much for reviewing my project! Have a great day! :)
 ===============================================================================
 This repository is Paula Segura's submission for the "Getting and Cleaning Data
 Course Project". It contrains the instructions on the Human Activity Recognition 
